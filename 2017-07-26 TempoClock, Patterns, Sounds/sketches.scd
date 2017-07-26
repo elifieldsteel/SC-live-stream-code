@@ -9,7 +9,6 @@ ServerQuit.removeAll;
 ~bus.add(\reverb -> Bus.audio(s, 2));
 
 s.waitForBoot({
-
 	//buffers
 	b = PathName.new("/Users/eli/Sounds/scaudio/mandel/").makeBufDict;
 	g = PathName("/Users/eli/Sounds/scaudio/glitch/").makeBufDict;
