@@ -1,0 +1,21 @@
+Short List of Common UGens
+
+Periodic Generators: SinOsc, Saw, Pulse, LFTri, VarSaw, LFPulse, LFSaw, Impulse, Blip
+
+Noise Generators: WhiteNoise, PinkNoise, BrownNoise, Dust, Dust2, LFNoise0, LFNoise1
+
+Filters: LPF, HPF, BPF, BRF, RLPF, RHPF
+
+Envelopes: EnvGen, Line, XLine, Linen
+
+Delays: DelayN, DelayL, DelayC, CombN, CombL, CombC, AllpassN, AllpassL, AllpassC
+
+Reverbs: FreeVerb, GVerb
+
+Buffers: PlayBuf, RecordBuf, BufRd, BufWr, Phasor
+
+Granular: GrainBuf
+
+Panning: Pan2, Balance2, XFade2
+
+UGen distortion methods: clip, fold, wrap, distort, softclip
